@@ -56,10 +56,20 @@ __ 或者 ** 包围
 ### 10. 任务列表
 ```
 Todo:
-- [] 你好
-- [] 我很好
+- [ ] 你好
+- [ ] 我很好
 ```
+
+- [x] 你好
+- [ ] 我很好
+
+### 11.表格
+```
+
+```
+| 学号 | 姓名 | 年龄 |
+| :---- | :---:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjcyMTgyOTYsLTc4MTM2Nzc5OSwtMT
-QzNDA3MjEyOSwtMjAzNzEyNTY3OV19
+eyJoaXN0b3J5IjpbLTE3NTYyMjUzMiwtNzgxMzY3Nzk5LC0xND
+M0MDcyMTI5LC0yMDM3MTI1Njc5XX0=
 -->
