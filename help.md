@@ -21,9 +21,11 @@ __ 或者 ** 包围
 
 ### 4. 删除线
 ```
-
+～～包围
 ```
+
+### 5. 代码和代码kua
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA2OTQ1MjIsLTE0MzQwNzIxMjksLT
-IwMzcxMjU2NzldfQ==
+eyJoaXN0b3J5IjpbMTQ0NjU0OTE2NiwtMTQzNDA3MjEyOSwtMj
+AzNzEyNTY3OV19
 -->
