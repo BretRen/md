@@ -152,19 +152,20 @@ Note right of John: Bob 想了很久，<br/>久到文字<br/>都超出了一行�
 
 Bob-->Alice: 跟 John 确认一下...
 Alice->John: 是的... John，你好吗？
-` ``
+```
 
 这将生成一个流程图：
 
 mermaid
 
-复制代码
 
-`graph LR
+``` mermaid
+graph LR
 A[方形矩形] -- 链接文字 --> B((圆形))
 A --> C(圆角矩形)
 B --> D{菱形}
-C --> D`
+C --> D
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTQwMjc3LDc1Mjk2ODY5XX0=
+eyJoaXN0b3J5IjpbMTk4NTU2NzY4NSw3NTI5Njg2OV19
 -->
