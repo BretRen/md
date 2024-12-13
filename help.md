@@ -63,13 +63,18 @@ Todo:
 - [x] 你好
 - [ ] 我很好
 
-### 11.表格
+### 11. 表格
+```
+| 学号 | 姓名 | 年龄 |
+| :--- | :---: | --: |
+| 523003 | Bret | 11 |
+```
+
+### 12. 图片
 ```
 
 ```
-| 学号 | 姓名 | 年龄 |
-| :---- | :---:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTYyMjUzMiwtNzgxMzY3Nzk5LC0xND
+eyJoaXN0b3J5IjpbMTc5ODE3MzcxMiwtNzgxMzY3Nzk5LC0xND
 M0MDcyMTI5LC0yMDM3MTI1Njc5XX0=
 -->
