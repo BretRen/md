@@ -138,11 +138,12 @@ HTML
 
 你可以使用 [Mermaid](https://mermaidjs.github.io/) 渲染 UML 图表。例如，这将生成一个时序图：
 
-mermaid
+
 
 复制代码
 
-`sequenceDiagram
+```mermaid
+sequenceDiagram
 Alice ->> Bob: 你好，Bob，你好吗？
 Bob-->>John: 你觉得呢，John？
 Bob--x Alice: 我很好，谢谢！
@@ -150,7 +151,8 @@ Bob-x John: 我很好，谢谢！
 Note right of John: Bob 想了很久，<br/>久到文字<br/>都超出了一行。
 
 Bob-->Alice: 跟 John 确认一下...
-Alice->John: 是的... John，你好吗？` 
+Alice->John: 是的... John，你好吗？
+` ``
 
 这将生成一个流程图：
 
@@ -164,5 +166,5 @@ A --> C(圆角矩形)
 B --> D{菱形}
 C --> D`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyOTY4NjldfQ==
+eyJoaXN0b3J5IjpbMTk0MTQwMjc3LDc1Mjk2ODY5XX0=
 -->
