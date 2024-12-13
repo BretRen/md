@@ -96,9 +96,9 @@ style 不能在这里使用！
 ```mermaid
 pie
 	title 1
-	"数学":92
-	"英语":72
-	"科学":82
+	"数":92
+	"英":72
+	"科":82
 ```
 ```mermaid
 graph LR 
@@ -109,7 +109,7 @@ graph LR
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzMjE0ODg1LDE4NDg1NjcxMzksLTcwNj
-k2ODkyOSwtNzgxMzY3Nzk5LC0xNDM0MDcyMTI5LC0yMDM3MTI1
-Njc5XX0=
+eyJoaXN0b3J5IjpbLTYyODcyMDg2NCw1MzMyMTQ4ODUsMTg0OD
+U2NzEzOSwtNzA2OTY4OTI5LC03ODEzNjc3OTksLTE0MzQwNzIx
+MjksLTIwMzcxMjU2NzldfQ==
 -->
