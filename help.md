@@ -42,7 +42,7 @@ __ 或者 ** 包围
 有序列表：数字 + . 开头
 ```
 
-### 8. 上/下标
+### 8. 上/下标[^1]
 ```
 上标：^ 包围
 下标：~ 包围
@@ -50,6 +50,6 @@ __ 或者 ** 包围
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MTM2Nzc5OSwtMTQzNDA3MjEyOSwtMj
-AzNzEyNTY3OV19
+eyJoaXN0b3J5IjpbMTI5OTA4OTI3NCwtNzgxMzY3Nzk5LC0xND
+M0MDcyMTI5LC0yMDM3MTI1Njc5XX0=
 -->
