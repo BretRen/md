@@ -36,12 +36,18 @@ __ 或者 ** 包围
 > > 你好
 ```
 
-### 7.
+### 7. 列表
+```
+- 或者 + 开头
+```
 
 ### 8.
+```
+
+```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjcwMTU0OCwtMTQzNDA3MjEyOSwtMj
-AzNzEyNTY3OV19
+eyJoaXN0b3J5IjpbNTM3NDMyMTM2LC0xNDM0MDcyMTI5LC0yMD
+M3MTI1Njc5XX0=
 -->
