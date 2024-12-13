@@ -89,9 +89,18 @@ Todo:
 <p style="color:red;">我是HTML</p>
 style 不能在这里使用！
 
-### 2. 公式
+### 2.
 
+### 3. Mermaid
+
+```mermaid
+pie
+	title 1
+	""
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0ODU2NzEzOSwtNzA2OTY4OTI5LC03OD
-EzNjc3OTksLTE0MzQwNzIxMjksLTIwMzcxMjU2NzldfQ==
+eyJoaXN0b3J5IjpbMTcxNTg2Mzk3NywxODQ4NTY3MTM5LC03MD
+Y5Njg5MjksLTc4MTM2Nzc5OSwtMTQzNDA3MjEyOSwtMjAzNzEy
+NTY3OV19
 -->
