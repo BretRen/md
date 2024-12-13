@@ -42,14 +42,17 @@ __ 或者 ** 包围
 有序列表：数字 + . 开头
 ```
 
-### 8. 上/下标[^1]
+### 8. 上/下标
 ```
 上标：^ 包围
 下标：~ 包围
 ```
-
-
+### 9. 链接
+```
+[文本](链接)
+```
+[你好](#2. 粗体)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5OTA4OTI3NCwtNzgxMzY3Nzk5LC0xND
+eyJoaXN0b3J5IjpbMTM4MDQyNjMyMiwtNzgxMzY3Nzk5LC0xND
 M0MDcyMTI5LC0yMDM3MTI1Njc5XX0=
 -->
