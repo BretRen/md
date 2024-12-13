@@ -82,12 +82,11 @@ Todo:
 三个*或者-或者_
 ```
 
-### 14. Emoji表情
-```
-:前置
-```
+
+
+## 🔥进阶教程
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjk2ODkyOSwtNzgxMzY3Nzk5LC0xND
-M0MDcyMTI5LC0yMDM3MTI1Njc5XX0=
+eyJoaXN0b3J5IjpbLTY2MTgyMDk2MiwtNzA2OTY4OTI5LC03OD
+EzNjc3OTksLTE0MzQwNzIxMjksLTIwMzcxMjU2NzldfQ==
 -->
