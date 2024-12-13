@@ -9,8 +9,21 @@
 六级标题：###### ……
 ```
 
+### 2. 粗体
+```
+__ 或者 ** 包围
+```
 
+### 3. 斜体
+```
+* 或者 _ 包围
+```
+
+### 4. 删除线
+```
+
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzQwNzIxMjksLTIwMzcxMjU2NzldfQ
-==
+eyJoaXN0b3J5IjpbLTIxMTA2OTQ1MjIsLTE0MzQwNzIxMjksLT
+IwMzcxMjU2NzldfQ==
 -->
