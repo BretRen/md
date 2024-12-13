@@ -102,13 +102,14 @@ pie
 ```
 ```mermaid
 graph LR 
-	start([开始]) --> decision{游戏体验如何？} 
-	decision -->|好玩| continue[继续游戏
+	start([开始]) --> decision{游戏体验}
+	decision -->|好玩| continue[继续游戏]
+	decision -->|不好玩| exit[退出游戏]
 
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MTQyNjE3OCwxODQ4NTY3MTM5LC03MD
-Y5Njg5MjksLTc4MTM2Nzc5OSwtMTQzNDA3MjEyOSwtMjAzNzEy
-NTY3OV19
+eyJoaXN0b3J5IjpbNTMzMjE0ODg1LDE4NDg1NjcxMzksLTcwNj
+k2ODkyOSwtNzgxMzY3Nzk5LC0xNDM0MDcyMTI5LC0yMDM3MTI1
+Njc5XX0=
 -->
