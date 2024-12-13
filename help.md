@@ -96,11 +96,14 @@ style 不能在这里使用！
 ```mermaid
 pie
 	title 1
-	""
+	"数学":92
+	"英语":72
+	"科学":82
+	
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNTg2Mzk3NywxODQ4NTY3MTM5LC03MD
-Y5Njg5MjksLTc4MTM2Nzc5OSwtMTQzNDA3MjEyOSwtMjAzNzEy
-NTY3OV19
+eyJoaXN0b3J5IjpbLTE2NjE1NzIzMjAsMTg0ODU2NzEzOSwtNz
+A2OTY4OTI5LC03ODEzNjc3OTksLTE0MzQwNzIxMjksLTIwMzcx
+MjU2NzldfQ==
 -->
