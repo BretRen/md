@@ -103,10 +103,11 @@ pie
 ```mermaid
 graph LR
 	A[暴打老师] --> B[死亡]
+	A --->
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNDUzMzEwMiwxODQ4NTY3MTM5LC03MD
-Y5Njg5MjksLTc4MTM2Nzc5OSwtMTQzNDA3MjEyOSwtMjAzNzEy
-NTY3OV19
+eyJoaXN0b3J5IjpbLTEzMzIwMTk0NDQsMTg0ODU2NzEzOSwtNz
+A2OTY4OTI5LC03ODEzNjc3OTksLTE0MzQwNzIxMjksLTIwMzcx
+MjU2NzldfQ==
 -->
