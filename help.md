@@ -102,12 +102,12 @@ pie
 ```
 ```mermaid
 graph LR
-	A[暴打老师] --> B[死亡]
-	A --->
+	AA[] --> A{玩游戏} --> B[好玩，继续玩下去]
+	A --> C[]
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzIwMTk0NDQsMTg0ODU2NzEzOSwtNz
+eyJoaXN0b3J5IjpbLTE1MjA5NjUxNjEsMTg0ODU2NzEzOSwtNz
 A2OTY4OTI5LC03ODEzNjc3OTksLTE0MzQwNzIxMjksLTIwMzcx
 MjU2NzldfQ==
 -->
