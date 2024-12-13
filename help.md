@@ -79,9 +79,15 @@ Todo:
 
 ### 13. 分割线
 ```
-三个*或者-
+三个*或者-或者_
 ```
+
+### 14. Emoji表情
+```
+:前置
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MjQyNjM4NSwtNzgxMzY3Nzk5LC0xND
+eyJoaXN0b3J5IjpbLTcwNjk2ODkyOSwtNzgxMzY3Nzk5LC0xND
 M0MDcyMTI5LC0yMDM3MTI1Njc5XX0=
 -->
