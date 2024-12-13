@@ -38,7 +38,8 @@ __ 或者 ** 包围
 
 ### 7. 列表
 ```
-- 或者 + 开头
+无序列表：- 或者 + 开头
+有序列表：数字 + . 开头
 ```
 
 ### 8.
@@ -48,6 +49,6 @@ __ 或者 ** 包围
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NDMyMTM2LC0xNDM0MDcyMTI5LC0yMD
-M3MTI1Njc5XX0=
+eyJoaXN0b3J5IjpbLTU1MjIxMTI0MywtMTQzNDA3MjEyOSwtMj
+AzNzEyNTY3OV19
 -->
