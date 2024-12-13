@@ -24,8 +24,14 @@ __ 或者 ** 包围
 ～～包围
 ```
 
-### 5. 代码和代码kua
+### 5. 代码和代码块
+```
+代码：`包围
+代码块：```包围
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjU0OTE2NiwtMTQzNDA3MjEyOSwtMj
+eyJoaXN0b3J5IjpbLTEzNjQxNzc2MywtMTQzNDA3MjEyOSwtMj
 AzNzEyNTY3OV19
 -->
