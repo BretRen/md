@@ -101,13 +101,13 @@ pie
 	"科学":82
 ```
 ```mermaid
-graph LR
-	AA[] --> A{玩游戏} --> B[好玩，继续玩下去]
-	A --> C[]
+graph LR start([开始]) --> decision{游戏体验如何？} 
+decision -->|好玩| continue[继续游戏] decision -->|不好玩| exit[退出游戏]
+
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA5NjUxNjEsMTg0ODU2NzEzOSwtNz
+eyJoaXN0b3J5IjpbLTE1ODE3MjA2OTUsMTg0ODU2NzEzOSwtNz
 A2OTY4OTI5LC03ODEzNjc3OTksLTE0MzQwNzIxMjksLTIwMzcx
 MjU2NzldfQ==
 -->
